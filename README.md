@@ -4,7 +4,7 @@
 In this bounty, I collected interesting datasets using Forta, Dune Analytics, etc. Datasets include on assets, addresses, contracts, and transactions on the Ethereum blockchain. Data collection was focused in 3 areas: security, compliance, and authenticity.
 
 # Data Analytics
-Ethereum Transaction data obtained from [kaggle](./Analytics Dataset/transaction_dataset.csv) was then analyses using libraries like Pandas, Numpy, MatplotLib and Seaborn using Jupyter Notebook.
+Ethereum Transaction data obtained from Kaggle was then analyses using libraries like Pandas, Numpy, MatplotLib and Seaborn using Jupyter Notebook.
 
 Data Analytics Jupyter Notebook File - [view](./ethereum-transactions-fraud-detection.ipynb)
 
@@ -13,7 +13,7 @@ Data Analytics Jupyter Notebook File - [view](./ethereum-transactions-fraud-dete
 * A python script queries the CryptoscamDB api endpoint and saves the output in a CSV file.
 
 1. Scams currently tracked - [view]()
-2. Verified Scam entries
+2. Verified Scam entries - [view](./Verified%20Scam%20Entries%20(CryptoScamDB)/cryptobd-verified-scams)
 3. Addresses with associated malicious malicious entries
 4. Active Scams
 5. Inactive Scams
