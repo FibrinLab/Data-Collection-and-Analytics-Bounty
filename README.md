@@ -1,11 +1,8 @@
-# 
+# Ethereum Data Collection Bounty
 
 
-### In this bounty, I collected interesting datasets using Forta, Dune Analytics, etc. Datasets should focus on assets, addresses, contracts, and transactions on the Ethereum blockchain. Although, data type and methodology are up to the participant, data collection should be focused in 3 areas: security, compliance, and authenticity.
+In this bounty, I collected interesting datasets using Forta, Dune Analytics, etc. Datasets include on assets, addresses, contracts, and transactions on the Ethereum blockchain. Data collection was focused in 3 areas: security, compliance, and authenticity.
 
-For security, think stolen NFTs, phishing, malware, etc.
-For compliance, think AML, sanctions, etc.
-For authenticity, think copycat NFTs, copycat tokens, DID, etc.
 
 ## CRYPTOSCAMDB
 
@@ -65,3 +62,7 @@ For authenticity, think copycat NFTs, copycat tokens, DID, etc.
 6. Malware
 7. Ransomware
 8. Contract Exploits
+
+
+
+Akanimoh Osutuk.
