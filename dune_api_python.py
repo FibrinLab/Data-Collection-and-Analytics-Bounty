@@ -19,7 +19,7 @@ dune.login()
 # fetch token
 dune.fetch_auth_token()
 
-result_id = dune.query_result_id(query_id=1321778)
+result_id = dune.query_result_id(query_id=1322207)
 
 # fetch query result
 data = dune.query_result(result_id)
@@ -35,7 +35,7 @@ data = data.values()
 # print(data)
 
 
-with open('./Phishing Stats (Dune Analytics)/Platforms.csv', 'wb') as output_file:
+with open('./Mining Voucher Scam (Dune Analytics)/USDT-Victims.csv', 'wb') as output_file:
     dict_writer = csv.DictWriter(output_file, columns)
     dict_writer.writeheader()
     dict_writer.writerows(data)

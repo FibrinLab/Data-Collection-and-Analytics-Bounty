@@ -26,6 +26,28 @@ For authenticity, think copycat NFTs, copycat tokens, DID, etc.
    * Total Victims
    * Platforms
 
+2. Airdrop Scams - []()
+   * Scam Token Contract
+   * Scam Airdrop Token
+   * Contract Creator
+
+3. Crypto Sanctions - []()
+   * Sanctions Addresses
+   * ERC20 Balances
+   * ERC721 Balances
+   * Interactions with Sanctioned Addresses
+   * USDT Blacklist
+   * Chainalysis: Sanctions Oracle - Sanctioned Addresses
+
+4. Copycat Token - []()
+   * Copycat Tokens
+   * Flagged fake crowdsale addresses
+   * UNIswap LP Scam - stolen NFTs
+   * UNIswap LP Scam - potential victims
+
+5. Mining Voucher Scam
+   * Mining Vouchers Scam - USDT Victims
+
 ## FORZA API
 1. Scam Detection Feed - []()
 
