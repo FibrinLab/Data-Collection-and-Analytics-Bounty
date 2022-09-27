@@ -42,3 +42,4 @@ For authenticity, think copycat NFTs, copycat tokens, DID, etc.
 5. Seed Phrase Theft
 6. Malware
 7. Ransomware
+8. Contract Exploits
