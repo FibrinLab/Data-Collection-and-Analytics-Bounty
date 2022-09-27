@@ -1,0 +1,46 @@
+id,scamCategory,description,createdAt,addresses,netVoteCount,descriptionMarkdown
+1229e1ae-42e5-4dbf-85c6-5d6839d20565,SEED_PHRASE_THEFT,User reported this address is associated with a myetherwallet phish and may have accidentally downloaded the fake app from the google chrome store.,2022-02-27T23:56:58.681Z,"[{'address': '0xf6D938d1773c65FD1769778D4B51243a801D29D5', 'chain': 'ETH', 'domain': None}]",1,User reported this address is associated with a myetherwallet phish and may have accidentally downloaded the fake app from the google chrome store.
+ec1477a8-adc4-4705-9180-e4f8dc0c3da3,SEED_PHRASE_THEFT,website vention.token-winner.com is attempting to steal users seed phrase via a meta mask scam. Never input your seed phrase into websites!,2022-04-08T18:18:45.597Z,"[{'address': '0x2f053e33bd590830858161d42c67e9e8a9390019', 'chain': 'ETH', 'domain': None}]",1,website vention.token-winner.com is attempting to steal users seed phrase via a meta mask scam. Never input your seed phrase into websites!
+e52f8921-a469-4658-be5b-832109f8ef33,SEED_PHRASE_THEFT,"Damage amount:
+487.86 vUSDC
+0.1216 vVSP
+0.0542 vETH
+0.0612 ETH
+---
+At that time I was having trouble withdrawing funds from the Vesper Finance site and needed assistance.
+The culprit has been DMing me under the guise of Vesper Finance support.
+To withdraw the deposited funds, they told us to first connect to the designated site at METAMASK.
+The site I checked looked like an official METAMASK site, and there was nothing suspicious about it, so I connected to that site and Apploved it.
+I then told them about the situation and waited, but nothing happened, so I had my doubts. I suddenly checked the METAMASK wallet and Vesper websites and found that almost all the funds I had deposited had been debited.
+They probably took the METAMASK information that connected to the site and transferred the funds directly from my METAMASK wallet.
+On Discord, all of the culprit's comments had been erased and his account appeared to have been abandoned.
+
+As a Crypt novice at the time, I was not familiar with DM scams or site connection scams, and I regret that I gave them the information and operated according to what they said.
+
+*In the image in evidence, the culprit's comments have been erased, so it appears as if I am speaking alone.
+*It was the METAMASK wallet (address) that I had been using as my main method of payment, but I don't use it unless I have to.",2022-05-24T08:37:48.318Z,"[{'address': '0x055bDd43D90628540843fa3C06073ABA4A0D3573', 'chain': 'ETH', 'domain': None}, {'address': '0x5e6c3e329c37cad0bab1afc1947d91897a7cd2f9', 'chain': 'ETH', 'domain': None}]",2,"Damage amount:
+487.86 vUSDC
+0.1216 vVSP
+0.0542 vETH
+0.0612 ETH
+---
+At that time I was having trouble withdrawing funds from the Vesper Finance site and needed assistance.
+The culprit has been DMing me under the guise of Vesper Finance support.
+To withdraw the deposited funds, they told us to first connect to the designated site at METAMASK.
+The site I checked looked like an official METAMASK site, and there was nothing suspicious about it, so I connected to that site and Apploved it.
+I then told them about the situation and waited, but nothing happened, so I had my doubts. I suddenly checked the METAMASK wallet and Vesper websites and found that almost all the funds I had deposited had been debited.
+They probably took the METAMASK information that connected to the site and transferred the funds directly from my METAMASK wallet.
+On Discord, all of the culprit's comments had been erased and his account appeared to have been abandoned.
+
+As a Crypt novice at the time, I was not familiar with DM scams or site connection scams, and I regret that I gave them the information and operated according to what they said.
+
+*In the image in evidence, the culprit's comments have been erased, so it appears as if I am speaking alone.
+*It was the METAMASK wallet (address) that I had been using as my main method of payment, but I don't use it unless I have to."
+8ac871f3-db85-4a50-92dd-4a76b291f39c,SEED_PHRASE_THEFT,"Hello team my meta mask wallet was exploited and my nfts and coin were transferred and sold out and drained all assets from all network eth,bnb,matic network .",2022-05-24T19:08:34.378Z,"[{'address': '0x1A21fCA753B46964D3900511AE434d1beEfbE3b9', 'chain': 'BINANCE', 'domain': None}, {'address': '0x1A21fCA753B46964D3900511AE434d1beEfbE3b9', 'chain': 'ETH', 'domain': None}, {'address': '0x1A21fCA753B46964D3900511AE434d1beEfbE3b9', 'chain': 'POLYGON', 'domain': None}]",4,"Hello team my meta mask wallet was exploited and my nfts and coin were transferred and sold out and drained all assets from all network eth,bnb,matic network ."
+7fa68d5a-ecfc-4ae2-9a65-6c46adf6db40,SEED_PHRASE_THEFT,this address took all my tokens from my wallet,2022-06-01T14:12:23.266Z,"[{'address': '0x43a66d39c830174AD5d06A68E2Fe21E748DEA8b3', 'chain': 'ETH', 'domain': None}]",2,this address took all my tokens from my wallet
+a1cb8138-b3c5-48bb-bae3-233b2b98c645,SEED_PHRASE_THEFT,Gained control and emptied my crypto wallets.,2022-06-06T09:31:07.072Z,"[{'address': '0xA07d9E43E02BA562A2B111f54D16e50E07979e7b', 'chain': 'ETH', 'domain': None}]",3,Gained control and emptied my crypto wallets.
+cd8cb83b-f244-4b8e-bb3d-c0ed2bb60e76,SEED_PHRASE_THEFT,"Someone got my pvt key it seems, and stole funds cross chain.",2022-06-16T11:35:51.115Z,"[{'address': '0x0e9B85B830f694f8A792bA721DfFe06c7E256588', 'chain': 'ETH', 'domain': None}]",5,"Someone got my pvt key it seems, and stole funds cross chain."
+0c4a017e-c541-46e1-a5b1-815066ae1a99,SEED_PHRASE_THEFT,Coinbase Wallet Phishing site - drains your crypto once seed phrase is entered.,2022-07-27T01:59:36.251Z,"[{'address': None, 'chain': None, 'domain': 'coinnnbasewallet.azurewebsites.net'}, {'address': '0xf09417DE4d54925CdedFa312A59ceE64CB55f6e2', 'chain': 'ETH', 'domain': None}]",2,Coinbase Wallet Phishing site - drains your crypto once seed phrase is entered.
+57ed2ad1-1231-476c-a12d-1cf82fee2202,SEED_PHRASE_THEFT,"ZB, a centralized exchange, had their hot wallet drained. It is rumored to be a stolen private key.",2022-08-03T17:49:09.014Z,"[{'address': '0x67C67B5a3C4009cF849F86be37E79DB3923F1055', 'chain': 'ETH', 'domain': None}, {'address': '0x26446C1658b036A6FA3Efb805F8fc538451D3FC2', 'chain': 'ETH', 'domain': None}]",3,"ZB, a centralized exchange, had their hot wallet drained. It is rumored to be a stolen private key."
+bff7c2c0-c2c3-4945-9790-749eca509d2f,SEED_PHRASE_THEFT,"A hacker compromised my home network and gained access to my network storage device and was able to find an accidental backup of my Ethereum 2 validator seed phrase and generated keys for ten validators containing 32 ETH each, a total of 320 ETH. They requested 2 ETH reward. The hacker is now requesting an additional 30 ETH ransom, or threatening to sell the seed phrase to a scrapper. I have not replied or negotiated this time, and will refuse to do so regardless of his actions. He also contacted me using my website benchodroff.com which was able to pull his static IP address 178.183.112.222 indicating he is potentially located in Poland. I have no other proof other than this and the emails, and on chain evidence of where he sent the 2 ETH reward (Binance and a high risk exchange). I hope this evidence helps law enforcement catch what is likely a criminal ring that are attacking others, and I am willing to provide any additional details requested - I have photos of each email transaction.",2022-09-02T03:15:32.307Z,"[{'address': '0x23fEc084B9CBc6679045972aADF993DD1220a09f', 'chain': 'ETH', 'domain': None}, {'address': '0xFB3573EdC19b0131f439a4EDa5938B82fDa93848', 'chain': 'ETH', 'domain': None}, {'address': '0x41de37756d3a893c9e42ff09eb360454c4079c5f', 'chain': 'ETH', 'domain': None}, {'address': '0x6f888d2b0ff380ba06acffcfb5b6e383fcca15a0', 'chain': 'ETH', 'domain': None}]",1,"A hacker compromised my home network and gained access to my network storage device and was able to find an accidental backup of my Ethereum 2 validator seed phrase and generated keys for ten validators containing 32 ETH each, a total of 320 ETH. They requested 2 ETH reward. The hacker is now requesting an additional 30 ETH ransom, or threatening to sell the seed phrase to a scrapper. I have not replied or negotiated this time, and will refuse to do so regardless of his actions. He also contacted me using my website benchodroff.com which was able to pull his static IP address 178.183.112.222 indicating he is potentially located in Poland. I have no other proof other than this and the emails, and on chain evidence of where he sent the 2 ETH reward (Binance and a high risk exchange). I hope this evidence helps law enforcement catch what is likely a criminal ring that are attacking others, and I am willing to provide any additional details requested - I have photos of each email transaction."
+c612d960-f802-4215-8a00-63c3f36909fa,SEED_PHRASE_THEFT,Vanity Address private key attack,2022-09-20T20:28:33.179Z,"[{'address': '0xe74b28c2eAe8679e3cCc3a94d5d0dE83CCB84705', 'chain': 'ETH', 'domain': None}]",3,Vanity Address private key attack

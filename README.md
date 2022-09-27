@@ -37,3 +37,8 @@ For authenticity, think copycat NFTs, copycat tokens, DID, etc.
 ## ChainAbuse
 1. Rug Pull
 2. Ukranian Donation Scam
+3. Fake Coin Listing
+4. Phishing
+5. Seed Phrase Theft
+6. Malware
+7. Ransomware
