@@ -19,7 +19,7 @@ dune.login()
 # fetch token
 dune.fetch_auth_token()
 
-result_id = dune.query_result_id(query_id=1319484)
+result_id = dune.query_result_id(query_id=1321778)
 
 # fetch query result
 data = dune.query_result(result_id)
@@ -32,10 +32,10 @@ df = pd.DataFrame(data)
 df = df['data']
 data = df.to_dict()
 data = data.values()
-print(data)
+# print(data)
 
 
-with open('./Opensea NFT Phishing/opensea_nft_phishing.csv', 'wb') as output_file:
+with open('./Phishing Stats (Dune Analytics)/Platforms.csv', 'wb') as output_file:
     dict_writer = csv.DictWriter(output_file, columns)
     dict_writer.writeheader()
     dict_writer.writerows(data)

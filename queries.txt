@@ -1,4 +1,9 @@
+
+Stolen by Project = "1321703"
 Open Sea Stolen NFTs = "1319484"
+Sold by Project = "1321709"
+Total Victims = "1321778"
+Platforms = "1321782"
 
 
 

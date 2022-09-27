@@ -16,3 +16,12 @@ For authenticity, think copycat NFTs, copycat tokens, DID, etc.
 5. Inactive Scams
 6. Blacklisted domains
 7. Whitelisted domains
+
+## DUNE ANALYTICS
+
+1. Phishing Stats - [view]()
+   * Stolen by Project
+   * Open Sea Stolen NFTs
+   * Sold by Project
+   * Total Victims
+   * Platforms
