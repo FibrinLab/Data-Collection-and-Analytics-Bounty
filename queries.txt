@@ -6,6 +6,8 @@ Total Victims = "1321778"
 Platforms = "1321782"
 
 
+FORZA BOTS
+scam-detector-feed = "0x1d646c4045189991fdfd24a66b192a294158b839a6ec121d740474bdacb3ab23"
 
 
 curl --location --request GET 'https://api.cryptoscamdb.org/v1/scams'

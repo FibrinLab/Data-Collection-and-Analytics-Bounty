@@ -5,8 +5,8 @@ forta_api = "https://api.forta.network/graphql"
 headers = {"content-type": "application/json"}
 
 # start and end date needs to be in the format: YYYY-MM-DD
-START_DATE = "2022-04-20"
-END_DATE = "2022-04-21"
+START_DATE = "2022-01-01"
+END_DATE = "2022-09-26"
 ALERT_COUNT_LIMIT = 100000
 
 query = '''
@@ -77,6 +77,6 @@ while next_page_exists and len(all_alerts) < ALERT_COUNT_LIMIT:
 
 df = pd.DataFrame.from_dict(all_alerts)
 print(df)
-df.iloc[:,0:4].to_csv("fetchedData.csv", index=False)
+df.iloc[:,0:4].to_csv("./Scam-Detector-Feed (Forza)/scam-feed.csv", index=False)
 
 len(df) # size: ALERT_COUNT_LIMIT = 100000

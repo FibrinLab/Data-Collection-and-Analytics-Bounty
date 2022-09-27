@@ -25,3 +25,11 @@ For authenticity, think copycat NFTs, copycat tokens, DID, etc.
    * Sold by Project
    * Total Victims
    * Platforms
+
+## FORZA API
+1. Scam Detection Feed - []()
+
+
+## Scam Sniffer
+1. Full list of blacklististed domains and address maintained by Scam Sniffer - []()
+2. 
