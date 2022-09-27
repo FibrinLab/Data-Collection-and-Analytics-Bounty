@@ -1,7 +1,12 @@
-# Ethereum Data Collection Bounty
+# Ethereum Data Collection and Analytics Bounty
 
 
 In this bounty, I collected interesting datasets using Forta, Dune Analytics, etc. Datasets include on assets, addresses, contracts, and transactions on the Ethereum blockchain. Data collection was focused in 3 areas: security, compliance, and authenticity.
+
+# Data Analytics
+Ethereum Transaction data obtained from [kaggle](./Analytics Dataset/transaction_dataset.csv) was then analyses using libraries like Pandas, Numpy, MatplotLib and Seaborn using Jupyter Notebook.
+
+Data Analytics Jupyter Notebook File - [view](./ethereum-transactions-fraud-detection.ipynb)
 
 
 ## CRYPTOSCAMDB
