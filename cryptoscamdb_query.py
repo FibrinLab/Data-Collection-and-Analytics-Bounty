@@ -4,8 +4,8 @@ import pandas as pd
 
 solditems = requests.get('https://api.cryptoscamdb.org/v1/scams') # (your url)
 data = solditems.json()
-with open('data.json', 'w') as f:
+with open('./Scams Tracked by CryptoScamDB/cryptobd-tracked-scams.json', 'w') as f:
     json.dump(data, f)
 
 df = pd.read_json ('data.json')
-df.to_csv ('testagain.csv', index = None)
+df.to_csv ('./Scams Tracked by CryptoScamDB/cryptobd-tracked-scams.csv', index = None)
