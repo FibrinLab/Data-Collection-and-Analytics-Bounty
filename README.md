@@ -32,4 +32,8 @@ For authenticity, think copycat NFTs, copycat tokens, DID, etc.
 
 ## Scam Sniffer
 1. Full list of blacklististed domains and address maintained by Scam Sniffer - []()
-2. 
+
+
+## ChainAbuse
+1. Rug Pull
+2. Ukranian Donation Scam
