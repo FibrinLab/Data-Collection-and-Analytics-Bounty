@@ -1,0 +1,12 @@
+Open Sea Stolen NFTs = "1319484"
+
+
+
+
+curl --location --request GET 'https://api.cryptoscamdb.org/v1/scams'
+curl --location --request GET 'https://api.cryptoscamdb.org/v1/verified'
+curl --location --request GET 'https://api.cryptoscamdb.org/v1/addresses'
+curl --location --request GET 'https://api.cryptoscamdb.org/v1/actives'
+curl --location --request GET 'https://api.cryptoscamdb.org/v1/inactives'
+curl --location --request GET 'https://api.cryptoscamdb.org/v1/blacklist'
+curl --location --request GET 'https://api.cryptoscamdb.org/v1/whitelist'
