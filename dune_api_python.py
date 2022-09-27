@@ -35,8 +35,7 @@ data = data.values()
 print(data)
 
 
-
-with open('test.csv', 'wb') as output_file:
+with open('./Opensea NFT Phishing/opensea_nft_phishing.csv', 'wb') as output_file:
     dict_writer = csv.DictWriter(output_file, columns)
     dict_writer.writeheader()
     dict_writer.writerows(data)
