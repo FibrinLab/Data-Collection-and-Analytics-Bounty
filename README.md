@@ -5,6 +5,7 @@ In this bounty, I collected interesting datasets using Forta, Dune Analytics, et
 
 
 ## CRYPTOSCAMDB
+* A python script queries the CryptoscamDB api endpoint and saves the output in a CSV file.
 
 1. Scams currently tracked - [view]()
 2. Verified Scam entries
@@ -15,6 +16,7 @@ In this bounty, I collected interesting datasets using Forta, Dune Analytics, et
 7. Whitelisted domains
 
 ## DUNE ANALYTICS
+* Implemented a python script to query the Dune Analytics endpoint using an API key.
 
 1. Phishing Stats - [view]()
    * Stolen by Project
@@ -48,12 +50,13 @@ In this bounty, I collected interesting datasets using Forta, Dune Analytics, et
 ## FORZA API
 1. Scam Detection Feed - []()
 
-
 ## Scam Sniffer
+
 1. Full list of blacklististed domains and address maintained by Scam Sniffer - []()
 
-
 ## ChainAbuse
+* Queried the ChainAbuse Database using a pythonscript with an associated API Key. Output saved in a CSV file.
+  
 1. Rug Pull
 2. Ukranian Donation Scam
 3. Fake Coin Listing
