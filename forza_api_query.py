@@ -45,7 +45,7 @@ query = '''
 query_variables = {
   "input": {
       "first": 5,
-      "bots": ["0x1d646c4045189991fdfd24a66b192a294158b839a6ec121d740474bdacb3ab23"],
+      "bots": ["0x55636f5577694c83b84b0687eb77863850c50bd9f6072686c8463a0cbc5566e0"],
       "chainId": 1,
       "blockSortDirection": "asc",
       "blockDateRange": {
@@ -77,6 +77,6 @@ while next_page_exists and len(all_alerts) < ALERT_COUNT_LIMIT:
 
 df = pd.DataFrame.from_dict(all_alerts)
 print(df)
-df.iloc[:,0:4].to_csv("./Scam-Detector-Feed (Forza)/scam-feed.csv", index=False)
+df.iloc[:,0:4].to_csv("./Flashloan (Forza)/flashloan.csv", index=False)
 
 len(df) # size: ALERT_COUNT_LIMIT = 100000

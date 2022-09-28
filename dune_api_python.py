@@ -10,8 +10,7 @@ userN = os.getenv("USERNAME")
 passW = os.getenv("PASSWORD")
 
 # initialize client
-# dune = DuneAnalytics('{userN}', '{passW}')
-dune = DuneAnalytics('docakan', 'eaglepass225')
+dune = DuneAnalytics(os.getenv("USERNAME"), os.getenv("PASSWORD"))
 
 # try to login
 dune.login()
@@ -35,7 +34,7 @@ data = data.values()
 # print(data)
 
 
-with open('./Mining Voucher Scam (Dune Analytics)/USDT-Victims.csv', 'wb') as output_file:
+with open('./{path}.csv', 'wb') as output_file:
     dict_writer = csv.DictWriter(output_file, columns)
     dict_writer.writeheader()
     dict_writer.writerows(data)

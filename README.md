@@ -4,7 +4,7 @@
 In this bounty, I collected interesting datasets using Forta, Dune Analytics, etc. Datasets include on assets, addresses, contracts, and transactions on the Ethereum blockchain. Data collection was focused in 3 areas: security, compliance, and authenticity.
 
 # Data Analytics
-Ethereum Transaction data obtained from Kaggle was then analyses using libraries like Pandas, Numpy, MatplotLib and Seaborn using Jupyter Notebook.
+Ethereum Transaction data obtained from Kaggle was then analysed using libraries like Pandas, Numpy, MatplotLib and Seaborn using Jupyter Notebook.
 
 Data Analytics Jupyter Notebook File - [view](./ethereum-transactions-fraud-detection.ipynb)
 
@@ -23,19 +23,19 @@ Data Analytics Jupyter Notebook File - [view](./ethereum-transactions-fraud-dete
 ## DUNE ANALYTICS
 * Implemented a python script to query the Dune Analytics endpoint using an API key.
 
-1. Phishing Stats - [view]()
+1. Phishing Stats - [view](./Phishing%20Stats%20(Dune%20Analytics))
    * Stolen by Project
    * Open Sea Stolen NFTs
    * Sold by Project
    * Total Victims
    * Platforms
 
-2. Airdrop Scams - []()
+2. Airdrop Scams - [view](./Airdrop%20Scams%20(Dune%20Analytics))
    * Scam Token Contract
    * Scam Airdrop Token
    * Contract Creator
 
-3. Crypto Sanctions - []()
+3. Crypto Sanctions - [view](./Crypto%20Sanctions%20(Dune%20Analytics))
    * Sanctions Addresses
    * ERC20 Balances
    * ERC721 Balances
@@ -43,17 +43,19 @@ Data Analytics Jupyter Notebook File - [view](./ethereum-transactions-fraud-dete
    * USDT Blacklist
    * Chainalysis: Sanctions Oracle - Sanctioned Addresses
 
-4. Copycat Token - []()
+4. Copycat Token - [view](./Copycat%20Token%20(Dune%20Analytics))
    * Copycat Tokens
    * Flagged fake crowdsale addresses
    * UNIswap LP Scam - stolen NFTs
    * UNIswap LP Scam - potential victims
 
-5. Mining Voucher Scam
+5. Mining Voucher Scam - [view](./Mining%20Voucher%20Scam%20(Dune%20Analytics))
    * Mining Vouchers Scam - USDT Victims
 
 ## FORZA API
 1. Scam Detection Feed - []()
+2. Potential Exploit Function
+3. Flashloan
 
 ## Scam Sniffer
 
